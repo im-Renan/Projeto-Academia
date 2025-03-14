@@ -7,11 +7,10 @@ ste projeto foi desenvolvido para a disciplina de Estruturas de Dados em C. O si
 
 # Autores
 - Renan Moreira da Silva
-GitHub: im-Renan(https://github.com/im-Renan)
+GitHub: iGitHub: [im-Renan](https://github.com/im-Renan)
 
 - Alan Victor Mondego Pimenta
-GitHub: Alan-mondego (https://github.com/Alan-mondego)
-
+GitHub: GitHub: [Alan-mondego](https://github.com/Alan-mondego)
 # Funcionalidades:
 
 Matricular Aluno: Permite a matrícula de novos alunos e a indicação de outros alunos para a academia.
