@@ -7,10 +7,10 @@ ste projeto foi desenvolvido para a disciplina de Estruturas de Dados em C. O si
 
 # Autores
 - Renan Moreira da Silva
-GitHub: im-Renan
+GitHub: im-Renan(https://github.com/im-Renan)
 
 - Alan Victor Mondego Pimenta
-GitHub: Alan-mondego
+GitHub: Alan-mondego (https://github.com/Alan-mondego)
 
 # Funcionalidades:
 
