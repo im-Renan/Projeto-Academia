@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1741921872 source:c:\users\ramon\downloads\renan\estrutura de dados\academia\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	<ctype.h>
+	"arvore.h"
+	"usuario.h"
+
+1741921608 c:\users\ramon\downloads\renan\estrutura de dados\academia\usuario.h
+
+1741921586 c:\users\ramon\downloads\renan\estrutura de dados\academia\arvore.h
+
+1741921619 source:c:\users\ramon\downloads\renan\estrutura de dados\academia\usuario.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"usuario.h"
+
+1741921600 source:c:\users\ramon\downloads\renan\estrutura de dados\academia\arvore.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"arvore.h"
+
