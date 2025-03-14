@@ -3,7 +3,7 @@
 # Sistema de Matrícula de Alunos com Desconto
 
 # Descrição:
-ste projeto foi desenvolvido para a disciplina de Estruturas de Dados em C. O sistema permite gerenciar matrículas de alunos em uma academia de ginástica, onde um aluno que indica novos membros recebe um desconto com base no nível da árvore de indicação. O desconto é calculado conforme a hierarquia de indicados: 5% para o pai, 4% para o avô, 3% para o bisavô, e assim por diante.
+Este projeto foi desenvolvido para a disciplina de Estruturas de Dados em C. O sistema permite gerenciar matrículas de alunos em uma academia de ginástica, onde um aluno que indica novos membros recebe um desconto com base no nível da árvore de indicação. O desconto é calculado conforme a hierarquia de indicados: 5% para o pai, 4% para o avô, 3% para o bisavô, e assim por diante.
 
 # Autores
 - Renan Moreira da Silva
