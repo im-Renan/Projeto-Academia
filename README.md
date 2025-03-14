@@ -22,13 +22,15 @@ Compilador C (GCC ou similar)
 Ambiente de desenvolvimento (como IDE ou terminal)
 ** Compilação e Execução:** 
 - I. Compile o código utilizando o GCC ou outro compilador C:
-
+```
 gcc -o sistema_matriculas main.c arvore.c usuario.c
-
+```
 - II. Execute o programa:
+ ```
 ./sistema_matriculas
-
+```
 # Estrutura do Projeto:
+```
 src/
 │
 ├── arvore.c                 # Implementação das operações da árvore de alunos
@@ -36,3 +38,4 @@ src/
 ├── usuario.c                # Implementação das operações dos usuários
 ├── usuario.h                # Definições dos usuários
 ├── main.c                   # Função principal do prog
+```
