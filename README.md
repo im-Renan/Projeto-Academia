@@ -13,9 +13,9 @@ GitHub: [im-Renan](https://github.com/im-Renan)
 GitHub: [Alan-mondego](https://github.com/Alan-mondego)
 # Funcionalidades:
 
-Matricular Aluno: Permite a matrícula de novos alunos e a indicação de outros alunos para a academia.
-Imprimir Sub-árvore e Desconto: Exibe a sub-árvore de um aluno específico e calcula o desconto total com base no nível de indicação.
-Desconto Progressivo: Calcula descontos para alunos com base no número de níveis na árvore de indicações.
+- Matricular Aluno: Permite a matrícula de novos alunos e a indicação de outros alunos para a academia.
+- Imprimir Sub-árvore e Desconto: Exibe a sub-árvore de um aluno específico e calcula o desconto total com base no nível de indicação.
+- Desconto Progressivo: Calcula descontos para alunos com base no número de níveis na árvore de indicações.
 
 # Tecnologias Utilizadas:
 - 🖥️ Linguagem de Programação: C
