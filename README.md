@@ -22,11 +22,11 @@ GitHub: [Alan-mondego](https://github.com/Alan-mondego)
 - 🔗 Bibliotecas: Nenhuma biblioteca externa necessária (somente bibliotecas padrão)
 Como Executar:
 
-#Requisitos:
+# Requisitos:
 
 Compilador C (GCC ou similar)
 Ambiente de desenvolvimento (como IDE ou terminal)
-** Compilação e Execução:** 
+**Compilação e Execução:** 
 - I. Compile o código utilizando o GCC ou outro compilador C:
 ```
 gcc -o sistema_matriculas main.c arvore.c usuario.c
